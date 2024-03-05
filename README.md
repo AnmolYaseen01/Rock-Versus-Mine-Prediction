@@ -11,8 +11,8 @@ The sonar data is loaded into a Pandas DataFrame from the file 'sonar data.csv'.
 - Number of rows and columns: [provide the shape]
 - Statistical measures: [include key statistics]
 - Distribution of target classes:
-  - 'M' (Mine): [count]
-  - 'R' (Rock): [count]
+  - 'M' (Mine): 111
+  - 'R' (Rock): 97
 
 ## Data Processing
 
@@ -26,8 +26,8 @@ A Logistic Regression model is trained using the training data.
 
 The model's performance is assessed on both the training and test datasets. Accuracy scores are calculated to measure the effectiveness of the model.
 
-- Accuracy on training data: [accuracy score]
-- Accuracy on test data: [accuracy score]
+- Accuracy on training data: 0.8342245989304813
+- Accuracy on test data: 0.7619047619047619
 
 ## Predictive System
 
