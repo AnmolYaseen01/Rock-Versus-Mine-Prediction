@@ -48,3 +48,9 @@ A predictive system is implemented using the trained model. An example input is 
 ## Author
 
 Anmol Yaseen
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+Happy Coding!
